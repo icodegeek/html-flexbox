@@ -1,13 +1,14 @@
 @import url('css/grid.css');
 @import url('css/buttons.css');
 @import url('css/layout.css');
+@import url('css/footer.css');
 @import url('css/sidebar.css');
 @import url('css/typography.css');
 
 /**** GENERAL ****/
 
 body {
-  
+
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 20px;

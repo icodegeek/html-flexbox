@@ -1,0 +1,38 @@
+footer {
+  background: #444;
+  color: white;
+  padding: 35px 0;
+}
+
+footer #copyright {
+
+  width: 280px;
+}
+
+footer nav {
+  width: 435px;
+
+}
+
+footer a {
+  color: #fff;
+  text-decoration: none;
+}
+
+footer nav a {
+  margin: 0 0 0 15px;
+}
+
+footer a:hover {
+  color: #00c0ff;
+}
+
+footer nav ul li {
+  list-style: none;
+  font-size: 20px;
+}
+
+footer nav ul {
+  margin: 0;
+  padding: 0;
+}

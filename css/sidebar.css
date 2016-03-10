@@ -2,10 +2,11 @@ aside {
   background: #444;
   width: 160px;
   color: #fff;
-  margin-left: 20px;
-  padding: 30px;
+  margin-left: 0px;
+  padding: 15px 30px;
   font-size: 12px;
   line-height: 18px;
+  height: auto;
 }
 aside .widget {
   margin: 10px 0;

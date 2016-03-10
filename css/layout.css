@@ -10,6 +10,11 @@ header {
   margin-top: 5px;
 }
 
+.fa {
+  font-size: 2rem;
+  color: white;
+}
+
 header nav ul {
   margin: 0;
   padding: 0;
@@ -66,4 +71,26 @@ header nav div ul li a:active {
 
 #content {
   padding: 50px 0;
+}
+
+#secondary-cta {
+  background: #eee;
+  padding: 30px 0;
+}
+
+#secondary-cta h4 {
+  font-size: 24px;
+  font-weight: 200;
+}
+
+#secondary-cta form {
+  margin: 0;
+}
+
+input[type="text"], input[type="email"] {
+  /*position: relative;*/
+  padding: 11px 10px;
+  border: 1px solid #ccc;
+  width: 220px;
+  margin: 0 -5px 0 0;
 }
